@@ -4,7 +4,7 @@
 <h4 align="center">👋Hi there👋</h4>
 <h4 align="center">I'm Chaeyeon Kim, a growing FE developer🔥</h4>
 <br>
-<h3 align="center">📚 Technology Stack 📚
+<h3 align="center">📚 Technology Stack 📚 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
