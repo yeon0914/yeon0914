@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=black&height=300&section=header&text=YeonoeY&fontSize=120&desc=ChaeyeonKim%20Github&descSize=30&descAlign=62&descAlignY=70&animation=twinkling&fontColor=fff)
 
 <br>
-<br>
-<br>
+
 <h4 align="center">👋Hi there👋</h4>
 <h4 align="center">I'm Chaeyeon Kim, a growing FE developer🔥</h4>
 <p align="center">
