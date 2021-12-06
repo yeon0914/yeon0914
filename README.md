@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=black&height=300&section=header&text=YeonoeY&fontSize=120&desc=ChaeyeonKim%20Github&descSize=30&descAlign=62&descAlignY=70&animation=twinkling&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=black&height=300&section=header&text=YeonoeY&fontSize=120&desc=ChaeyeonKim%20Github&descSize=30&descAlign=62&descAlignY=70&animation=twinkling&fontColor=e1e1e6)
 
 <br>
 
