@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=ReactNative&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vuetify-1867c0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp 
