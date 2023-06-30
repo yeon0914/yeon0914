@@ -13,17 +13,12 @@
 <br>
 <h3 align="center">📚 Technology Stack 📚 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp  
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/html5-e34f26?style=flat-square&logo=html5&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/ReactNative-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue-4fc08d?style=flat-square&logo=vue.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vuetify-1867c0?style=flat-square&logo=Vuetify&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/jquery-0769ad?style=flat-square&logo=jquery&logoColor=white"/>&nbsp 
